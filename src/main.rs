@@ -19,6 +19,7 @@ use aes_gcm::{
 
 mod utils;
 
+/// Simple CLI file encryption tool :D
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
 struct Args {
