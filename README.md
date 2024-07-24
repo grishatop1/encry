@@ -4,4 +4,4 @@
 encry file.txt
 ```
 
-and you're done.
+enter a password and you're done.
